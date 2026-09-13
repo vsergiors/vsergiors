@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=true&background=1a1a1a&ring=9C5726&fire=9C5726&currStreakLabel=9C5726" />
+  <img src="https://streak-stats.demolab.com/?user=vsergiors&theme=radical&hide_border=true&background=1a1a1a&ring=9C5726&fire=9C5726&currStreakLabel=9C5726" />
 </p>
 
 <br>
@@ -39,16 +39,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=9c5726&icon_color=9c5726" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=9c5726" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vsergiors&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=9c5726&icon_color=9c5726" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsergiors&layout=compact&theme=radical&hide_border=true&bg_color=1a1a1a&title_color=9c5726" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=react-dark&hide_border=true&bg_color=1a1a1a&color=9c5726&line=9c5726&point=ffffff" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vsergiors&theme=react-dark&hide_border=true&bg_color=1a1a1a&color=9c5726&line=9c5726&point=ffffff" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=radical&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vsergiors&theme=radical&no-frame=true&margin-w=10&row=1" />
 </p>
 
 ---
